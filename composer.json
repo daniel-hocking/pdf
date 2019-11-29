@@ -1,7 +1,7 @@
 {
-	"name": "gears/pdf",
+	"name": "gears-update/pdf",
 	"description": "A PDF builder using DOCX templates.",
-	"homepage": "https://github.com/phpgearbox/pdf",
+	"homepage": "https://github.com/daniel-hocking/pdf",
 	"keywords": ["pdf", "docx", "template", "builder", "converter"],
 	"license": "MIT",
 	"autoload":
