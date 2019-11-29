@@ -13,7 +13,7 @@
 	},
 	"require":
 	{
-		"gears/string": "v1.1.1",
+		"gears/string": "*",
 		"gears/di": "*",
 		"symfony/process": "2.*",
 		"symfony/filesystem": "2.*",
