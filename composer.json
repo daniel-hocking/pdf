@@ -11,9 +11,15 @@
 			"Gears\\": "src"
 		}
 	},
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/daniel-hocking/string"
+        }
+    ],
 	"require":
 	{
-		"gears/string": "v1.1.1",
+		"gears/string": "dev-master",
 		"gears/di": "*",
 		"symfony/process": "2.*",
 		"symfony/filesystem": "2.*",
