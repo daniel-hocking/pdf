@@ -13,7 +13,7 @@
 
 use RuntimeException;
 use Gears\Di\Container;
-use Gears\String as Str;
+use Gears\Str;
 use Gears\Pdf\TempFile;
 use Symfony\Component\Process\Process;
 use Gears\Pdf\Contracts\Backend as BackendInterface;
