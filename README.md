@@ -9,7 +9,16 @@ How to Install
 --------------------------------------------------------------------------------
 Installation via composer is easy:
 
-	composer require gears/pdf:*
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/daniel-hocking/pdf"
+      }
+  ],
+  "require": {
+  ...
+    "gears-update/pdf": "dev-master"
+  }
 
 How to Use
 --------------------------------------------------------------------------------

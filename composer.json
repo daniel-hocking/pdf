@@ -13,8 +13,8 @@
 	},
 	"require":
 	{
-		"gears/string": "*",
-		"gears/di": "v1.1.1",
+		"gears/string": "v1.1.1",
+		"gears/di": "*",
 		"symfony/process": "2.*",
 		"symfony/filesystem": "2.*",
 		"google/apiclient": "1.*",
