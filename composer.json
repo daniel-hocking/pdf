@@ -13,19 +13,12 @@
 	},
 	"require":
 	{
-		"gears/string": "*",
+		"gears/string": "v1.1.1",
 		"gears/di": "*",
 		"symfony/process": "2.*",
 		"symfony/filesystem": "2.*",
 		"google/apiclient": "1.*",
 		"jakoch/phantomjs-installer": "1.9.8"
-	},
-	"require-dev":
-	{
-		"codegyre/robo": "*",
-		"phpunit/phpunit": "4.*",
-		"guzzlehttp/guzzle": "4.*",
-		"sgh/pdfbox": "dev-master"
 	},
 	"scripts":
 	{
